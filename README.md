@@ -11,8 +11,17 @@
 
 
 * a)
+  ![retiring_titles](https://user-images.githubusercontent.com/78699521/116787406-aa8ad000-aa58-11eb-9a30-14920abd743c.png)
+  
+  ![retirement_by_dept](https://user-images.githubusercontent.com/78699521/116787422-c2625400-aa58-11eb-8e81-1c7eb965992f.png)
+
+  ![dep_names](https://user-images.githubusercontent.com/78699521/116787430-d0b07000-aa58-11eb-95f3-1a10543ba59d.png)
+
+
 * b)
 * c)
+  ![query_mentorship_eligibility](https://user-images.githubusercontent.com/78699521/116787492-27b64500-aa59-11eb-87db-3911ca6f2ef5.png)
+
 * d)
 
 
