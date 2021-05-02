@@ -27,10 +27,7 @@ The queries used to create the new tables are available here:https://github.com/
 
 
 ![image](https://user-images.githubusercontent.com/78699521/116830499-7ea64200-ab5f-11eb-932b-9e9bd46af4bb.png)
-
-
-![query_retiring_titles](https://user-images.githubusercontent.com/78699521/116830563-f8d6c680-ab5f-11eb-810b-466fd17865d5.png)
-  
+ 
      
 * b) By title, Senior Engineers and Senior Staff have the most retirement elegible employees at 29,414 and 28,254 respectiviely.
 
@@ -39,9 +36,6 @@ The queries used to create the new tables are available here:https://github.com/
 
 
 ![mentorship_eligibility](https://user-images.githubusercontent.com/78699521/116830540-d47aea00-ab5f-11eb-9474-4a417c9d2940.png)
-
-  
-![query_mentorship_eligibility](https://user-images.githubusercontent.com/78699521/116787492-27b64500-aa59-11eb-87db-3911ca6f2ef5.png)
   
 
 * d) The number of mentors is substantially less then the number of new employees that will need to be hired after current employees retire.
